@@ -1,5 +1,5 @@
 {
-  "name": "karma-browserstack-example",
+  "name": "browserstack-example",
   "version": "1.0.0",
   "description": "Sample To test Karma with BrowserStack",
   "main": "karma.conf.js",
@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/browserstack/karma-browserstack-example.git"
+    "url": "git+https://github.com/wangsongc/browserstack-example.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/browserstack/karma-browserstack-example/issues"
+    "url": "https://github.com/wangsongc/browserstack-example/issues"
   },
-  "homepage": "https://github.com/browserstack/karma-browserstack-example#readme",
+  "homepage": "https://github.com/wangsongc/browserstack-example#readme",
   "dependencies": {
-    "karma": "^4.4.1",
+    "karma": "^5.2.3",
     "karma-browserstack-launcher": "^1.5.1",
     "karma-qunit": "^0.1.5",
     "qunitjs": "^1.19.0"

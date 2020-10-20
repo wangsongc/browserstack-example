@@ -1,5 +1,5 @@
 // const isOdd = require('../src/odd.js')
-caps.setCapability("browserstack.local", "true")
+// caps.setCapability("browserstack.local", "true")
 QUnit.test("is 1 odd", function( assert ) {
   assert.ok(isOdd(1), 'One is an odd number');
 });
