@@ -4,7 +4,7 @@
   "description": "Sample To test Karma with BrowserStack",
   "main": "karma.conf.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
     "test": "karma start"
